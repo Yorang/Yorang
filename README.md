@@ -1,10 +1,7 @@
-# 👋 Hi, I’m Payothorn “Yorang” Wechakama
+# 👋 Hi, I’m “Yorang”
 
 Software Engineering Manager with **18+ years of experience** leading teams and building scalable, production-grade software systems.  
 Strong background in **full-stack development**, **platform ownership**, and **modern engineering practices** across enterprise and startup environments.
-
-📍 Bangkok, Thailand  
-🔗 LinkedIn: https://www.linkedin.com/in/payothorn-wechakama-22630499/
 
 ---
 
@@ -115,8 +112,7 @@ If you’re exploring this profile, we likely share an interest in **scalable sy
 
 I’m always open to collaboration, technical discussions, and exchanging ideas.
 
-📧 Email: *(add your professional email here)*  
-🔗 LinkedIn: https://www.linkedin.com/in/payothorn-wechakama-22630499/
+📧 Email: *payo.coe@gmail.com*
 
 —
 *This GitHub profile serves as a technical and architectural snapshot of my work, interests, and engineering mindset.*
