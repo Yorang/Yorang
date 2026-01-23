@@ -1,6 +1,6 @@
 # 👋 Hi, I’m “Yorang”
 
-Software Engineering Manager with **18+ years of experience** leading teams and building scalable, production-grade software systems.  
+Software Engineering with **18+ years of experience** leading teams and building scalable, production-grade software systems.  
 Strong background in **full-stack development**, **platform ownership**, and **modern engineering practices** across enterprise and startup environments.
 
 ---
@@ -31,6 +31,11 @@ My focus areas include:
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yorang&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorang&layout=compact)
 
 ---
 
